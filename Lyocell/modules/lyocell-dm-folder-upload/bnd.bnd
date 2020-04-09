@@ -1,0 +1,4 @@
+Bundle-Name: lyocell-dm-folder-upload
+Bundle-SymbolicName: com.lyocell.folder.upload
+Bundle-Version: 1.0.0
+Export-Package: com.lyocell.folder.upload.constants
